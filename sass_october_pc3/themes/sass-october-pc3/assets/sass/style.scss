@@ -1,0 +1,7 @@
+$fa-font-path:        "/themes/sass-october-pc3/assets/fonts/vendor/font-awesome" !default;
+
+@import "./custom_variables";
+@import "./functions";
+@import "~bootstrap-sass/assets/stylesheets/bootstrap";
+@import "~font-awesome/scss/font-awesome.scss";
+@import "./custom";

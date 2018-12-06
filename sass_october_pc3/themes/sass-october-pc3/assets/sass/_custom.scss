@@ -1,0 +1,36 @@
+.navbar {
+    margin-bottom: 0;
+    color: set-text-color($main-color);
+
+    .fa {
+        font-size: 18px;
+    }
+}
+
+.showcase {
+    background: url(/themes/sass-october-pc3/assets/images/main-bg.jpeg) no-repeat;
+    background-size: cover;
+    height: 600px;
+    padding: 30px 0;
+
+    h1 {
+        font-size: 60px;
+    }
+
+    .container {
+        background: #fff;
+        opacity: .8;
+        padding: 20px 30px 30px 30px;
+    }
+}
+
+.section-a {
+    background: $main-color;
+    padding: 30px 0;
+    text-align: center;
+    color: set-text-color($main-color);
+
+    .fa {
+        font-size: $icon-size;
+    }
+}
